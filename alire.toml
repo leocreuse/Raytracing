@@ -1,0 +1,9 @@
+name = "raytracing"
+description = "Ada implementation of Raytracing in a weekend"
+version = "0.0.0"
+
+authors = ["Leo Creuse"]
+maintainers = ["Leo Creuse <leo.creuse@gmail.com>"]
+maintainers-logins = ["leocreuse"]
+
+executables = ["raytracing"]
